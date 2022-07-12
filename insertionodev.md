@@ -9,7 +9,7 @@
 
 ***2. Big-O gösterimini yazınız.***
 
-'orst case'de n kadar işlem yapacağımız için $n.(n+1)/2$ olacaktır. Bu durumda da big O notation $O(n^2)$ olacaktır.
+worst case'de n kadar işlem yapacağımız için $n.(n+1)/2$ olacaktır. Bu durumda da big O notation $O(n^2)$ olacaktır.
 
 ***3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.***
 ***4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.*** (buraya 3 ve 4 yazmışsınız ancak bunlar tek soru o yüzden tek cevap veriyorum.)
